@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hager</h1>
-<h3 align="center">A Software Engineer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Hager Abd El Galil</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-- 🔭 I’m currently training at **ITI**
+- 🔭 I’m currently a trainee at **Information Technology Institute (ITI)**
 
-- 🌱 I’m currently learning **Open Source Development**
+- 🌱 I’m currently learning **Open Source Development at ITI**
 
 - 📫 How to reach me **Hager.abdelgalil@gmail.com**
 
