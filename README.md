@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Hager Abd El Galil</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
+- 👩🏻‍🎓 I graduated from **Faculty of Engineering,Alexandria University (Communications and Electronics Department)**
+
 - 🔭 I’m currently a trainee at **Information Technology Institute (ITI)**
 
 - 🌱 I’m currently learning **Open Source Applications Development at ITI**
