@@ -34,7 +34,7 @@
 </p>
 
 <!--Languages and Tools Section-->
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools 🎯</h2>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
@@ -121,15 +121,12 @@
    
 <!--GitHub Development Section-->
 <div align="center">
-  <p>
+  <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hager-abd-el-galil&show_icons=true&locale=en&layout=compact" alt="hager-abd-el-galil" />
   </p>
-  <p>&nbsp;
+  <p align="center">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hager-abd-el-galil&show_icons=true&locale=en" alt="hager-abd-el-galil" />
   </p>
-<!--   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hager-abd-el-galil&" alt="hager-abd-el-galil" />
-  </p> -->
 </div>
 
 <!--Footer-->
