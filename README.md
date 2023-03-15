@@ -24,6 +24,9 @@
 <!-- <a href="https://piyushmalhotra.netlify.app/">
   <img width="40" height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a> -->
+<a href="Hager.abdelgalil@gmail.com">
+  <img width="50" height="50" src="https://pixlok.com/wp-content/uploads/2021/10/ic-Gmail-c93nd.png"/>
+</a>
 <a href="https://www.linkedin.com/in/hager-abd-el-galil-a15448198">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
