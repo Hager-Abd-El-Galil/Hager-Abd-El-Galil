@@ -16,22 +16,22 @@
 <a href="https://www.linkedin.com/in/hager-abd-el-galil-a15448198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hager-abd-el-galil-a15448198" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hager_galil66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hager_galil66" height="30" width="40" /></a>
 </p> -->
-<h1 align="center">
+<h2 align="center">
   Let's Connect and have a Chat!💬
-</h1>
+</h2>
 
 <p align="center">
 <!-- <a href="https://piyushmalhotra.netlify.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <img width="40" height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a> -->
 <a href="https://www.linkedin.com/in/hager-abd-el-galil-a15448198">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img width="40" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.hackerrank.com/hager_galil66">
-  <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+  <img width="40" height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
 </a>
 <a href="https://leetcode.com/user5345uy/">
-  <img height="50" src="https://repository-images.githubusercontent.com/518200136/5bf288c8-5185-4fca-a476-42dd5b5dc99e"/>
+  <img width="40" height="50" src="https://repository-images.githubusercontent.com/518200136/5bf288c8-5185-4fca-a476-42dd5b5dc99e"/>
 </a>
 </p>
 
