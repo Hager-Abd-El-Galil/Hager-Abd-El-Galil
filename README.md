@@ -1,6 +1,9 @@
-<div id="header" align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<!-- <div id="header" align="center">
   <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200" height="200" style="border-radius:50%"/>
-</div>
+</div> -->
 <h1 align="center">Hi 👋, I'm Hager Abd El Galil</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
