@@ -25,13 +25,13 @@
   <img width="40" height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a> -->
 <a href="https://www.linkedin.com/in/hager-abd-el-galil-a15448198">
-  <img width="40" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.hackerrank.com/hager_galil66">
-  <img width="40" height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
 </a>
 <a href="https://leetcode.com/user5345uy/">
-  <img width="40" height="50" src="https://repository-images.githubusercontent.com/518200136/5bf288c8-5185-4fca-a476-42dd5b5dc99e"/>
+  <img width="50" height="50" src="https://camo.githubusercontent.com/7c89b46de0f34cfcc4d8c7217c2359d1b1af78c72151f73f4e81b7aa127ca4c6/68747470733a2f2f692e696d6775722e636f6d2f49735335786b5a2e706e67"/>
 </a>
 </p>
 
