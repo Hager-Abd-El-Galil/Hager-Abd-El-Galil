@@ -34,9 +34,9 @@
 </p>
 
 <!--Languages and Tools Section-->
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 
-<h4 align="left">Programming Languages</h4>
+<h3 align="left">Programming Languages</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<h4 align="left">Frontend Development</h4>
+<h3 align="left">Frontend Development</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -74,8 +74,8 @@
   </a>
 </p>
 
-<h4 align="center">Backend Development</h4>
-<p align="center">
+<h3 align="left">Backend Development</h3>
+<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
@@ -87,8 +87,8 @@
   </a>
 </p>
 
-<h4 align="center">DataBases</h4>
-<p align="center"> 
+<h3 align="left">DataBases</h3>
+<p align="left"> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
@@ -100,8 +100,8 @@
   </a>  
 </p>
 
-<h4 align="left">Other</h4>
-<p align="center"> 
+<h3 align="left">Other</h3>
+<p align="left"> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
    </a> 
@@ -119,7 +119,6 @@
   </a>
 </p>
    
-
 <!--GitHub Development Section-->
 <div align="center">
   <p>
@@ -128,9 +127,9 @@
   <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hager-abd-el-galil&show_icons=true&locale=en" alt="hager-abd-el-galil" />
   </p>
-  <p>
+<!--   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hager-abd-el-galil&" alt="hager-abd-el-galil" />
-  </p>
+  </p> -->
 </div>
 
 <!--Footer-->
