@@ -127,7 +127,6 @@
   <p align="center">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hager-abd-el-galil&show_icons=true&locale=en" alt="hager-abd-el-galil" />
   </p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=hager-abd-el-galil&label=Profile%20views&color=0e75b6&style=flat" alt="hager-abd-el-galil" /> </p>
 </div>
 
 <!--Footer-->
