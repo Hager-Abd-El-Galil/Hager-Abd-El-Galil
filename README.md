@@ -19,7 +19,7 @@
   <!-- <a href="https://piyushmalhotra.netlify.app/">
     <img width="40" height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a> -->
-  <a href="Hager.abdelgalil@gmail.com">
+  <a href="hagerabdelgalilahmed@gmail.com">
     <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"/>
   </a>
   <a href="https://www.linkedin.com/in/hager-abd-el-galil-a15448198">
