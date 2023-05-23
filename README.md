@@ -5,6 +5,7 @@
 
 <h1 align="center">I'm Hager Abd El Galil 👋</h1>
 <h3 align="center">A Passionate Software Engineer | Full Stack Developer</h3>
+<h3 align="center">💻[Portofolio](https://hager-abd-el-galil-portofolio.web.app/)</h3>
 
 - 👩🏻‍🎓 I graduated from **Faculty of Engineering,Alexandria University (Communications and Electronics Department)**
 
@@ -72,6 +73,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> 
+  </a>
+   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vue js" width="40" height="40"/> 
+  </a>
 </p>
 
 <h3 align="left">Backend Development</h3>
@@ -84,6 +91,15 @@
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-2-282855.png" alt="django" width="40" height="40"/> 
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" alt="ruby on rails" width="40" height="40"/> 
   </a>
 </p>
 
