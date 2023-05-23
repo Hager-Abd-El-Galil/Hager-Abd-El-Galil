@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://hager-abd-el-galil-portofolio.web.app/">
-    <img width="40" height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+    <img width="50" height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
   <a href="hagerabdelgalilahmed@gmail.com">
     <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"/>
@@ -76,7 +76,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> 
   </a>
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vue js" width="35" height="35"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="vue js" width="30" height="30"/> 
   </a>
 </p>
 
@@ -92,7 +92,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="35" height="35"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="30" height="30"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-2-282855.png" alt="django" width="40" height="40"/> 
